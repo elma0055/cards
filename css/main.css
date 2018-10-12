@@ -25,7 +25,7 @@ html {
   border-radius: 10px
 }
 
-.cards li:nth child(2) {
+.cards li + li {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
