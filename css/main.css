@@ -34,8 +34,7 @@ html {
  .cards strong{
    display: block;
    margin-bottom: 1rem
-
-   font-size: 1.125rem;
+  font-size: 1.125rem;
  }
 
 cards dl {
